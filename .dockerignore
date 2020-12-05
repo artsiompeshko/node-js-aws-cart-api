@@ -1,0 +1,11 @@
+node_modules # ignore 3rd party dependcies
+npm-debug.log # ignore npm debu log
+dist # ignore builded folder
+test # ingore tests
+.eslintrc.js # ignore linter
+.gitignore # ignore git confiuration
+.prettierrc # ignore prettier configuration
+README.md # ignore readme file
+Dockerfile # ignore docker configuration
+.dockerignore # ignore docker configuration
+.elasticbeanstalk # ignore eb configuration
